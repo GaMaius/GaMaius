@@ -21,7 +21,7 @@ Unity, C#
 
 | 저장소 | 내용 |
 |---|---|
-| [WebCam](https://github.com/GaMaius/WebCam) | 웹캠 하나로 심박수, 퍼스널 컬러, 3D 아바타 모션캡처를 브라우저에서 처리하는 앱 모음. [배포 사이트](https://skillprac.vercel.app/) |
+| [WebCam](https://github.com/GaMaius/WebCam/tree/visionlab) | 웹캠 하나로 심박수, 퍼스널 컬러, 3D 아바타 모션캡처를 브라우저에서 처리하는 앱 모음. [배포 사이트](https://skillprac.vercel.app/) |
 | [GambaLabs](https://github.com/GaMaius/GambaLabs) | 감바랩스 인턴 과제. 발표자료와 엑셀 작업을 자동화하는 LLM 데스크톱 도구 |
 | [On-Life](https://github.com/GaMaius/On-Life) | 라이프 스타일 해커톤 우수상. 자세와 졸음을 감지하는 LLM 스마트 미러 |
 
