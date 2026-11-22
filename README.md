@@ -23,7 +23,7 @@ Unity, C#
 |---|---|
 | [WebCam](https://github.com/GaMaius/WebCam/tree/visionlab) | 웹캠 하나로 심박수, 퍼스널 컬러, 3D 아바타 모션캡처를 브라우저에서 처리하는 앱 모음. [배포 사이트](https://skillprac.vercel.app/) |
 | [GambaLabs](https://github.com/GaMaius/GambaLabs) | 감바랩스 인턴 과제. 발표자료와 엑셀 작업을 자동화하는 LLM 데스크톱 도구 |
-| [On-Life](https://github.com/GaMaius/On-Life) | 라이프 스타일 해커톤 우수상. 자세와 졸음을 감지하는 LLM 스마트 미러 |
+| [On-Life](https://github.com/GaMaius/On-Life) | 라이프 스타일 스마트 기기 메이커톤 우수상. 자세와 졸음을 감지하는 LLM 스마트 미러 |
 
 ### 운영 중인 서비스
 
@@ -35,7 +35,8 @@ Unity, C#
 - 2026.11 AWS Spec-Driven Development with Kiro 수료 ([수료증](https://gamaius.github.io/docs/aws-kiro-certificate.pdf))
 - 2026.08 감바랩스 기업체험형 인턴십 수료 (온디바이스 AI)
 - 2026.05 PCCP Lv.2, Python3 551점
-- 2026.02 라이프 스타일 해커톤 우수상
+- 2026.02 라이프 스타일 스마트 기기 메이커톤 우수상 ([상장](https://gamaius.github.io/docs/lifestyle-maker-award.jpg))
+- 2026.02 블레이버스 MVP 개발 해커톤 수료 ([수료증](https://gamaius.github.io/docs/blaybus-mvp-hackathon-certificate.pdf))
 
 ### 기술
 
