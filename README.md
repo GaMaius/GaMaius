@@ -32,6 +32,7 @@ Unity, C#
 ### 경력과 자격
 
 - 2026.11 Drilling Steam 정식 출시
+- 2026.11 AWS 마에스트로 AI 해커톤 최우수상
 - 2026.11 AWS Spec-Driven Development with Kiro 수료 ([수료증](https://gamaius.github.io/docs/aws-kiro-certificate.pdf))
 - 2026.08 감바랩스 기업체험형 인턴십 수료 (온디바이스 AI)
 - 2026.05 PCCP Lv.2, Python3 551점
